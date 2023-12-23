@@ -1,2 +1,2 @@
-# Razorpay-clone
-Landing Page of Razorpay Website using Tailwind
+# Swiggy Website
+Website created using HTML,CSS & JS
