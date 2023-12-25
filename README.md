@@ -1,3 +1,3 @@
 # Swiggy Website
-Chup be sale created using HTML,CSS & JS
+Website created using HTML,CSS & JS
  
