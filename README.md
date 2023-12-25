@@ -1,2 +1,3 @@
 # Swiggy Website
-Website created using HTML,CSS & JS
+Swiggy created using HTML,CSS & JS
+ 
